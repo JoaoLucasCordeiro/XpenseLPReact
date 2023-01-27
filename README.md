@@ -1,6 +1,6 @@
 # Xpense, landing page desenvolvida em React
 
-![Captura de tela de 2023-01-27 11-31-32](https://user-images.githubusercontent.com/89361241/215111855-b48311a6-a1e8-4ee0-b743-18f6a0fa533f.png)
+![Captura de tela de 2023-01-27 13-42-45](https://user-images.githubusercontent.com/89361241/215143643-0925ac33-0216-40bb-b1eb-8e470afae99f.png)
 Landing page desenvolvida em React e algumas outras bibliotecas JavaScript, contando com responsividade para se adaptar aos diversos tamanhos de tela.
 
 ### Bibliotecas utilizadas e frameworks:
