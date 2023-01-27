@@ -13,4 +13,4 @@ Landing page desenvolvida em React e algumas outras bibliotecas JavaScript, cont
 ### Versão mobile
 ![WhatsApp Image 2023-01-27 at 13 46 17](https://user-images.githubusercontent.com/89361241/215144671-8fdd199a-863d-4254-ab45-3d124824612d.jpeg)
 ### Menu mobile
-![WhatsApp Image 2023-01-27 at 11 43 17](https://user-images.githubusercontent.com/89361241/215114487-95588eef-6335-404a-8006-61ef1dff1633.jpeg)
+![WhatsApp Image 2023-01-27 at 13 46 17](https://user-images.githubusercontent.com/89361241/215144873-82787889-ec82-4fbc-bb95-30f0ba04b2af.jpeg)
